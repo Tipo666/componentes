@@ -23,7 +23,6 @@ class HomePageTemp extends StatelessWidget {
 
       lista..add(tempWidget)..add(Divider());
     }
-
     return lista;
   }
 
